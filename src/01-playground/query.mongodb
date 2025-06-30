@@ -1,0 +1,4 @@
+use("sample_mflix");
+
+// Find all movies with a title that contains "Avengers"
+db.users.find({ name: 'Ned Stark' });
